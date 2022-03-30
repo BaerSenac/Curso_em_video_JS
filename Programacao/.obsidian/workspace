@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "67eb683a85193938",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dd514b1c3bf5c2c",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66ce96eaaf28bc22",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2fff66e78340644",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e6172ec433e5368",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "34ad7985968dcd6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301
+  },
+  "right": {
+    "id": "96ed5e64ea5426d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c565033fcd44f6a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "beecd9326476e3af",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "782903eb507e5195",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 897.5,
+    "collapsed": true
+  },
+  "active": "4dd514b1c3bf5c2c",
+  "lastOpenFiles": [
+    "Conversao.md",
+    "JavaScript/Tratamento de Dados.md",
+    "JavaScript/Alert.md",
+    "JavaScript/Documentaçao JavaScript.md",
+    "JavaScript/Variaveis.md",
+    "RoadMap Front-end/CSS.md",
+    "CSS/Documentaçao CSS.md",
+    "JavaScript/Tipo de Dados.md",
+    "RoadMap Front-end/Front-end.md",
+    "RoadMap Front-end/HTML.md"
+  ]
+}
